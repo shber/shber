@@ -46,16 +46,12 @@ Here are some ideas to get you started:
 
 
 Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)](https://web648.github.io/web648Blog/) visitor, Thank You!🎉🎉
-<!--
+
 <div align="center" > <img height="137px" src="https://github-readme-stats.vercel.app/api?username=web648&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
--->
-
-<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=web648&layout=compact" height="137px" /></span><span><img height="137px" src="https://github-readme-stats.vercel.app/api?username=web648&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </span>
 
 
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=web648" /> </div>
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=web648" /> </div>
-<!--
+
+
 <div align="center">
   <a href="https://raw.githubusercontent.com/all-smile/nav/master/static/images/buymeacoffee.jpg" target="_blank" style="display: inline-block;">
     <img
@@ -64,4 +60,4 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/all-smil
     />
   </a>
 </div>
--->
+
