@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=web648&show_icons=true&theme=radical) -->
+
 
 - 🚀 I use daily:
   [![JavaScript](https://img.shields.io/badge/JavaScript-000000?logo=JavaScript&logoColor=FFCA28)](https://web648.github.io/web648Blog/)
@@ -46,9 +46,9 @@ Here are some ideas to get you started:
   [![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)](https://web648.github.io/web648Blog/)
 
 
-Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)](https://web648.github.io/web648Blog/) visitor, Thank You!🎉🎉
+Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)](https://github.com/web648/) visitor, Thank You!🎉🎉
 
-<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=web648&layout=compact" height="137px" /></span> &nbsp; <span><img height="137px" src="https://github-readme-stats.vercel.app/api?username=web648&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </span>
+<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=web648&layout=compact" height="137px" /></span> &nbsp; <span><img height="137px" src="https://github-readme-stats.vercel.app/api?username=web648&hide_title=true&hide_border=true&show_icons=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </span>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00F71A&random=false&width=435&lines=Don't+give+up+and+don't+give+in.)](https://git.io/typing-svg)
 
